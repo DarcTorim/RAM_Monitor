@@ -1,1 +1,1 @@
-Here is the Python code compiled into C++ for running in (.exe) format.
+Here is the Python code compiled to run in (.exe) format.
